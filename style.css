@@ -13,7 +13,7 @@
     margin: 0 auto;
     position: relative;
     overflow: hidden;
-    background: https://i.pinimg.com/originals/75/7b/0c/757b0cd634697b72cb377e1a2a2964ac.gif;
+    background-image:url(https://i.pinimg.com/originals/75/7b/0c/757b0cd634697b72cb377e1a2a2964ac.gif) ;
 
 }
 .pipe{
